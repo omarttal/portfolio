@@ -1,0 +1,60 @@
+@font-face {
+    font-family: 'Vector';
+    src: url('Vector-Heavy.eot');
+    src: url('Vector-Heavy.eot?#iefix') format('embedded-opentype'),
+        url('Vector-Heavy.woff2') format('woff2'),
+        url('Vector-Heavy.woff') format('woff'),
+        url('Vector-Heavy.ttf') format('truetype'),
+        url('Vector-Heavy.svg#Vector-Heavy') format('svg');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vector';
+    src: url('Vector-Regular.eot');
+    src: url('Vector-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Vector-Regular.woff2') format('woff2'),
+        url('Vector-Regular.woff') format('woff'),
+        url('Vector-Regular.ttf') format('truetype'),
+        url('Vector-Regular.svg#Vector-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vector';
+    src: url('Vector-Light.eot');
+    src: url('Vector-Light.eot?#iefix') format('embedded-opentype'),
+        url('Vector-Light.woff2') format('woff2'),
+        url('Vector-Light.woff') format('woff'),
+        url('Vector-Light.ttf') format('truetype'),
+        url('Vector-Light.svg#Vector-Light') format('svg');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vector';
+    src: url('Vector-Bold.eot');
+    src: url('Vector-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Vector-Bold.woff2') format('woff2'),
+        url('Vector-Bold.woff') format('woff'),
+        url('Vector-Bold.ttf') format('truetype'),
+        url('Vector-Bold.svg#Vector-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Vector';
+    src: url('Vector-Thin.eot');
+    src: url('Vector-Thin.eot?#iefix') format('embedded-opentype'),
+        url('Vector-Thin.woff2') format('woff2'),
+        url('Vector-Thin.woff') format('woff'),
+        url('Vector-Thin.ttf') format('truetype'),
+        url('Vector-Thin.svg#Vector-Thin') format('svg');
+    font-weight: 100;
+    font-style: normal;
+}
+

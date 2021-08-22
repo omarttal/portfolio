@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <defs>
+    <filter id="O" x="117" y="39" width="709" height="1070" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-icon2">
+      <rect width="1000" height="1000"/>
+    </clipPath>
+  </defs>
+  <g id="icon2" clip-path="url(#clip-icon2)">
+    <g id="_1837436" data-name="1837436" transform="translate(211.5 1054.312)">
+      <g id="Rectangle_1" data-name="Rectangle 1" transform="translate(-171.5 -1001.312)" fill="#121212" stroke="#707070" stroke-width="1">
+        <rect width="912" height="860" rx="100" stroke="none"/>
+        <rect x="0.5" y="0.5" width="911" height="859" rx="99.5" fill="none"/>
+      </g>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, 0, 0)" filter="url(#O)">
+      <text id="O-2" data-name="O" transform="translate(126 810)" fill="#fff" font-size="1000" font-family="Tangerine-Bold, Tangerine" font-weight="700"><tspan x="0" y="0">O</tspan></text>
+    </g>
+    <ellipse id="Ellipse_1" data-name="Ellipse 1" cx="173" cy="242.5" rx="173" ry="242.5" transform="translate(126 53)" fill="#121212"/>
+  </g>
+</svg>
